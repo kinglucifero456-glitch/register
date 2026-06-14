@@ -1,0 +1,13 @@
+{
+  "subdomain": "nxsapkpremium",
+  "domain": "thedev.me",
+  "email_or_discord": "kinglucifero456@gmail.com",
+  "github_username": "kinglucifero456-glitch",
+  "description": "is going to use it for my developing hobbies and maybe in the future be a developer",
+
+  "records": {
+    "CNAME": ["https://nxs-apk-premium.onrender.com/"]
+  },
+
+  "proxied": false
+}
